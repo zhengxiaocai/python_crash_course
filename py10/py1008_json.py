@@ -1,3 +1,6 @@
+"""
+json.jump() 存进去的时候带格式
+"""
 import json
 
 if __name__ == '__main__':
